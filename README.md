@@ -1,6 +1,6 @@
 # HacktoberFest-Hackathon
 
-Welcome to our Hacktoberfest 2024 Hackathon! This repository will serve as the central hub for participants to solve problems by contributing code to various GitHub issues. Read the instructions carefully to understand the workflow and rules for the event.
+Welcome to our Hacktoberfest  Hackathon! This repository will serve as the central hub for participants to solve problems by contributing code to various GitHub issues. Read the instructions carefully to understand the workflow and rules for the event.
 
 ## 🛠️ Prerequisites
 
@@ -16,7 +16,7 @@ Before participating in this hackathon, please ensure you meet the following pre
 1. Once registered, we will provide access to this repository. You will have write access, so ensure you use it responsibly.
 2. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/your-hackathon-org/repo-name.git
+   git clone https://github.com/AWS-Cloud-Club-Mehran-UET/HacktoberFest-Hackathon
 
 ## Step 2: Explore Issues
 
@@ -30,26 +30,15 @@ Before participating in this hackathon, please ensure you meet the following pre
    3. You will have 4 to 5 hours (depending on the event schedule) to work on the assigned issues.
 
 ## Step 4: Create a New Branch
-    
-    ```bash
-    Once you have selected your issues, create a new branch with the following naming convention for each issue:
 
-    
-
+```bash
 git checkout -b issue-<issue-number>
-
-For example:
-
-bash
-
-    git checkout -b issue-42
 
 ## Step 5: Solve the Issues
 
     Work on solving the issues you have selected. Make sure to follow any guidelines or instructions given in the issue description.
     Commit your changes frequently using meaningful commit messages:
 
-    bash
 
     git add .
     git commit -m "Fix issue #42: Improved UI performance"
