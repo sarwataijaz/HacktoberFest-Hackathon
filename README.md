@@ -17,6 +17,7 @@ Before participating in this hackathon, please ensure you meet the following pre
 ### Step 1: Registration and Access
 1. Once registered, we will provide access to this repository. You will have write access, so ensure you use it responsibly.
 2. Clone the repository to your local machine using:
+   
    ```bash
    git clone https://github.com/AWS-Cloud-Club-Mehran-UET/HacktoberFest-Hackathon
 
@@ -55,7 +56,7 @@ After solving the issue, you must describe your approach to solving the issue in
 
       git push origin issue-<issue-number>
       
-      for example 
+  for example 
       
       git push origin issue-42
 
