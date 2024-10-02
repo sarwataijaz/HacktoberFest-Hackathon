@@ -59,7 +59,7 @@ After solving the issue, you must describe your approach to solving the issue in
       
       git push origin issue-42
 
-## Step 7: Create a Pull Request (PR)
+## Step 8: Create a Pull Request (PR)
 
    After pushing your code, create a pull request to merge your branch into the main branch. Ensure your PR description includes references to the issue number using:
 
@@ -68,7 +68,7 @@ After solving the issue, you must describe your approach to solving the issue in
 
    You must create the pull request before the time limit ends. If you fail to do so, your work will be considered null and void.
 
-## Step 8: Review and Feedback
+## Step 9: Review and Feedback
 
    Once the PR is created, our team will review the code. Make sure your solution is complete and well-documented.
     If any changes are requested, make sure to update your PR within the given time frame.
