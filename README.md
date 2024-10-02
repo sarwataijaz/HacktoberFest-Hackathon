@@ -7,7 +7,9 @@ Welcome to our Hacktoberfest  Hackathon! This repository will serve as the centr
 Before participating in this hackathon, please ensure you meet the following prerequisites:
 
 - **GitHub Account:** You must have a valid GitHub account. If you don't have one yet, you can [sign up here](https://github.com/).
+
 - **Basic Git Knowledge:** You should be familiar with basic Git commands such as `clone`, `branch`, `add`, `commit`, `push`, and `pull request`. If you're new to Git, you can learn the basics [here](https://git-scm.com/doc).
+  
 - **Code Editor & Development Setup:** Have a code editor (e.g., VSCode, IntelliJ) installed and your development environment configured to solve issues.
 
 ## 📝 How to Participate
@@ -42,7 +44,12 @@ Before participating in this hackathon, please ensure you meet the following pre
     git add .
     git commit -m "Fix issue #42: Improved UI performance"
 
-## Step 6: Push Your Code
+## Step 6: Describe Your Approach
+After solving the issue, you must describe your approach to solving the issue in your branch's README.md file. This is a mandatory step to ensure clarity and understanding of your solution.
+
+   Include details such as the logic you used, the challenges you faced, and how you overcame them.
+
+## Step 7: Push Your Code
   Once you are done solving the issue, push your branch to the repository:
 
 
@@ -66,6 +73,9 @@ Before participating in this hackathon, please ensure you meet the following pre
    Once the PR is created, our team will review the code. Make sure your solution is complete and well-documented.
     If any changes are requested, make sure to update your PR within the given time frame.
 
+## Avoid the Use of AI Tools
+ Participants must avoid using AI tools (e.g., AI code generators, AI assistants) to solve issues. We value original problem-solving approaches and creativity. Any evidence of using AI to generate code will result in disqualification.
+ 
 ## ⏳ Time Limits
 
    Each participant has 4-5 hours to solve their assigned issues.
