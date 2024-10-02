@@ -31,12 +31,11 @@ Before participating in this hackathon, please ensure you meet the following pre
 
 ## Step 4: Create a New Branch
 
-```bash
-git checkout -b issue-<issue-number>
+    git checkout -b issue-<issue-number>
+
 
 ## Step 5: Solve the Issues
-
-    Work on solving the issues you have selected. Make sure to follow any guidelines or instructions given in the issue description.
+  Work on solving the issues you have selected. Make sure to follow any guidelines or instructions given in the issue description.
     Commit your changes frequently using meaningful commit messages:
 
 
@@ -44,42 +43,37 @@ git checkout -b issue-<issue-number>
     git commit -m "Fix issue #42: Improved UI performance"
 
 ## Step 6: Push Your Code
+  Once you are done solving the issue, push your branch to the repository:
 
-    Once you are done solving the issue, push your branch to the repository:
 
-    bash
-
-git push origin issue-<issue-number>
-
-For example:
-
-bash
-
-    git push origin issue-42
+      git push origin issue-<issue-number>
+      
+      for example 
+      
+      git push origin issue-42
 
 ## Step 7: Create a Pull Request (PR)
 
-    After pushing your code, create a pull request to merge your branch into the main branch. Ensure your PR description includes references to the issue number using:
+   After pushing your code, create a pull request to merge your branch into the main branch. Ensure your PR description includes references to the issue number using:
 
-    markdown
 
     Resolves #<issue-number>
 
-    You must create the pull request before the time limit ends. If you fail to do so, your work will be considered null and void.
+   You must create the pull request before the time limit ends. If you fail to do so, your work will be considered null and void.
 
 ## Step 8: Review and Feedback
 
-    Once the PR is created, our team will review the code. Make sure your solution is complete and well-documented.
+   Once the PR is created, our team will review the code. Make sure your solution is complete and well-documented.
     If any changes are requested, make sure to update your PR within the given time frame.
 
 ## ⏳ Time Limits
 
-    Each participant has 4-5 hours to solve their assigned issues.
+   Each participant has 4-5 hours to solve their assigned issues.
     You must create a pull request before the time ends; otherwise, your submission will not be considered.
 
 ## 🚫 Disqualification Rules
 
-    Failure to submit a PR before the time ends will result in the solution being considered null and void.
+ Failure to submit a PR before the time ends will result in the solution being considered null and void.
     Any form of plagiarism or unauthorized use of third-party code without proper attribution will lead to disqualification.
 
 ## 💡 Need Help?
