@@ -12,6 +12,19 @@ Before participating in this hackathon, please ensure you meet the following pre
   
 - **Code Editor & Development Setup:** Have a code editor (e.g., VSCode, IntelliJ) installed and your development environment configured to solve issues.
 
+## 📄 Instructions
+
+For detailed instructions on participating in the hackathon, setting up the repository, solving issues, and submission guidelines, please refer to our **[Hackathon Instructions Document](https://docs.google.com/document/d/1-xa87VDyAcqjLjoqGDzZ4008pHPWZGPrj2EzoZmH8mo/edit?usp=sharing)**.
+
+Make sure to go through this document thoroughly to understand the event flow, rules, and expectations.
+
+## 🏆 Judging Criteria
+
+Participants will be judged based on the quality, creativity, and efficiency of their solutions. The detailed judging criteria are available in our **[Judging Criteria Document](https://docs.google.com/document/d/1n5aOBWRtrdKTFnfX2evyeVdj8qbS2nH07wn6eVlBU5A/edit?usp=sharing)**.
+
+Please review this document to know how your contributions will be evaluated.
+  
+
 ## 📝 How to Participate
 
 ### Step 1: Registration and Access
@@ -34,7 +47,7 @@ Before participating in this hackathon, please ensure you meet the following pre
 
 ## Step 4: Create a New Branch
 
-    git checkout -b issue-<issue-number>
+    git checkout -b team-number-<issue-number>
 
 
 ## Step 5: Solve the Issues
@@ -54,7 +67,7 @@ After solving the issue, you must describe your approach to solving the issue in
   Once you are done solving the issue, push your branch to the repository:
 
 
-      git push origin issue-<issue-number>
+      git push origin team-number-<issue-number>
       
   for example 
       
