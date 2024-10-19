@@ -23,6 +23,11 @@ Make sure to go through this document thoroughly to understand the event flow, r
 Participants will be judged based on the quality, creativity, and efficiency of their solutions. The detailed judging criteria are available in our **[Judging Criteria Document](https://docs.google.com/document/d/1n5aOBWRtrdKTFnfX2evyeVdj8qbS2nH07wn6eVlBU5A/edit?usp=sharing)**.
 
 Please review this document to know how your contributions will be evaluated.
+
+## 🔍 Some Example Issues
+
+Looking for examples of the types of issues you'll be tackling during the hackathon? We’ve compiled a list of example issues to help you get started. You can view the examples here:  
+[Example Issues for Hacktoberfest](https://docs.google.com/document/d/1LzQAM4afa6o_ecTiU_3Qu9n-NOLGPyTKIEHONKSOQx4/edit?usp=sharing).
   
 
 ## 📝 How to Participate
@@ -47,7 +52,7 @@ Please review this document to know how your contributions will be evaluated.
 
 ## Step 4: Create a New Branch
 
-    git checkout -b team-number-<issue-number>
+    git checkout -b team-name-<issue-number>
 
 
 ## Step 5: Solve the Issues
@@ -67,7 +72,7 @@ After solving the issue, you must describe your approach to solving the issue in
   Once you are done solving the issue, push your branch to the repository:
 
 
-      git push origin team-number-<issue-number>
+      git push origin team-name-<issue-number>
       
   for example 
       
